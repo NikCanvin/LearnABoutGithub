@@ -1,2 +1,2 @@
 # LearnABoutGithub
-place for me to exercise and understand github flows
+Place for me to exercise and understand github flows.
